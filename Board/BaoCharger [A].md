@@ -15,8 +15,8 @@
 |  1 | L Ferrite 1A 40Ohm (0805)        | L1      | 445-2201-1-ND              |
 |  1 | L 10uH 900mA (1210)              | L2      | 587-1625-1-ND              |
 |  1 | Q P-MOSFET /10V                  | Q1      | DMP3098LDICT-ND            |
-|  2 | R .22, 1%, 2W (2512)             | R1 R2   | A109702CT-ND    |          |
-|  1 | R 4.7K 1% (0805)                 | R3      | 311-4.70KCRDKR-ND          |
-|  1 | R 29.4K 1% (0805)                | R4      | 311-29.4KCRCT-ND           |
+|  3 | R .68, 1%, 2W (2512)             | R1-R3   | RCWE.68HCT-ND              |
+|  1 | R 4.7K 1% (0805)                 | R4      | 311-4.70KCRDKR-ND          |
+|  1 | R 29.4K 1% (0805)                | R5      | 311-29.4KCRCT-ND           |
 |  1 | VR MIC2288YD5 TR                 | VR1     | 576-1729-1-ND              |
 |  1 | VR MCP73844-8.4 (MSOP-8)         | VR2     | MCP73844-840I/MS-ND        |
