@@ -1,6 +1,6 @@
 ### BaoCharger ###
 
-72.0 x 28.0 mm ~ 3.2 sqin
+73.0 x 28.0 mm ~ 3.2 sqin
 
 
 #### Parts ####
