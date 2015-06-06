@@ -16,7 +16,7 @@
 |  1 | L 10uH 900mA (1210)              | L2      | 587-1625-1-ND              |
 |  1 | Q IRF7404 20V 40mOhm (SO-8)      | Q1      | IRF7404PBFCT-ND            |
 |  1 | R .22 1% (0805)                  | R1      | RL12S.22FCT-ND             |
-|  1 | R 4.7K 1% (0805)                 | R2      | 311-4.70KCRDKR-ND          |
+|  1 | R 4.7K 1% (0805)                 | R2      | 311-4.70KCRCT-ND           |
 |  1 | R 29.4K 1% (0805)                | R3      | 311-29.4KCRCT-ND           |
 |  1 | VR MIC2288YD5 TR (SOT23-5)       | VR1     | 576-1729-1-ND              |
 |  1 | VR MCP73844-8.4 (MSOP-8)         | VR2     | MCP73844-840I/MS-ND        |
